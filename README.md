@@ -1,6 +1,6 @@
-# Cadastro em Angular
+# Projeto CRUD com Angular 9
 
-Angular 9 Essencial - Aplicação frontend simples com CRUD
+Aplicação frontend simples com CRUD
 
 ## Backend
 json-server
