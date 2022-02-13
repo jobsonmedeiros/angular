@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Caneta Bic Preta",
+      "preco": 4.89
+    },
+    {
+      "id": 2,
+      "produto": "Caneta Bic Vermelha",
+      "preco": 4.89
+    },
+    {
+      "id": 3,
+      "produto": "Caneta Bic Azul",
+      "preco": 4.89
+    }
+  ]
+}
