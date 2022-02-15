@@ -14,7 +14,8 @@ import { NavComponent } from './components/template/nav/nav.component'
 import { MatSidenavModule } from '@angular/material/sidenav'
 import { MatListModule } from '@angular/material/list';
 import { HomeComponent } from './views/home/home.component';
-import { ProdutoCrudComponent } from './views/produto-crud/produto-crud.component'
+import { ProdutoCrudComponent } from './views/produto-crud/produto-crud.component';
+import { ProdutoCriarComponent } from './components/produto-criar/produto-criar.component'
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { ProdutoCrudComponent } from './views/produto-crud/produto-crud.componen
     NavComponent,
     HomeComponent,
     ProdutoCrudComponent,
+    ProdutoCriarComponent,
 
   ],
   imports: [
