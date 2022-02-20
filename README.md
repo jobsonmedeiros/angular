@@ -1,4 +1,4 @@
-# Projeto CRUD com Angular 9 (Minicyrso de Introdução a Angular pela Cod3r ministrada por Leonardo Leitão)
+# Projeto CRUD com Angular 9 (Minicurso de Introdução a Angular pela Cod3r ministrada por Leonardo Leitão)
 
 Aplicação Web SPA (Single Page Application) baseada em componentes
 
